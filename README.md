@@ -53,3 +53,13 @@ This repo contains all my work for this specialization. All the code base, quiz 
     - Learn when and how to use regularization methods such as dropout or L2 regularization.
     - Understand experimental issues in deep learning such as Vanishing or Exploding gradients and learn how to deal with them
     - Use gradient checking to verify the correctness of your backpropagation implementation
+
+  - [Quiz](https://github.com/andersy005/deep-learning-specialization-coursera/blob/master/02-Improving-Deep-Neural-Networks/week1/quiz.pdf)
+
+  - [Notes](https://github.com/andersy005/deep-learning-specialization-coursera/blob/master/02-Improving-Deep-Neural-Networks/week1/Practical-aspects-of-Deep-Learning.ipynb)
+
+  - [Programming Assignment 1 - Initialization](https://github.com/andersy005/deep-learning-specialization-coursera/blob/master/02-Improving-Deep-Neural-Networks/week1/Programming-Assignments/Initialization/Initialization.ipynb)
+
+  - [Programming Assignment 2 - Regularization](https://github.com/andersy005/deep-learning-specialization-coursera/blob/master/02-Improving-Deep-Neural-Networks/week1/Programming-Assignments/Regularization/Regularization.ipynb)
+
+  - [Programming Assignment 3 - Gradient Checking](https://github.com/andersy005/deep-learning-specialization-coursera/blob/master/02-Improving-Deep-Neural-Networks/week1/Programming-Assignments/Gradient%20Checking/Gradient%2BChecking.ipynb)
