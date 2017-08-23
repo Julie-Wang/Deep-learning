@@ -15,7 +15,7 @@ This repo contains all my work for this specialization. All the code base, quiz 
 
 
 ## Courses
-- [Course 1: Neural Networks and Deep Learning](https://github.com/andersy005/deep-learning-specialization/tree/master/01-Neural-Networks-and-Deep-Learning)
+### [Course 1: Neural Networks and Deep Learning](https://github.com/andersy005/deep-learning-specialization/tree/master/01-Neural-Networks-and-Deep-Learning)
   - [Week 1 - Introduction to deep learning
 ](https://github.com/andersy005/deep-learning-specialization-coursera/tree/master/01-Neural-Networks-and-Deep-Learning/week1)
     - [Quiz](https://github.com/andersy005/deep-learning-specialization-coursera/blob/master/01-Neural-Networks-and-Deep-Learning/week1/quiz1.pdf)
@@ -40,3 +40,16 @@ This repo contains all my work for this specialization. All the code base, quiz 
     
     
     
+### [Course 2: Improving Deep Neural Networks: Hyperparameter tuning, Regularization and Optimization]()
+
+- [Week 1]()
+
+- **Learning Objectives**
+
+  - Recall that different types of initializations lead to different results
+  - Recognize the importance of initialization in complex neural networks.
+  - Recognize the difference between train/dev/test sets
+  - Diagnose the bias and variance issues in your model
+  - Learn when and how to use regularization methods such as dropout or L2 regularization.
+  - Understand experimental issues in deep learning such as Vanishing or Exploding gradients and learn how to deal with them
+  - Use gradient checking to verify the correctness of your backpropagation implementation
