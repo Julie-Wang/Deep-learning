@@ -42,7 +42,7 @@ This repo contains all my work for this specialization. All the code base, quiz 
     
 ### [Course 2: Improving Deep Neural Networks: Hyperparameter tuning, Regularization and Optimization](https://github.com/andersy005/deep-learning-specialization-coursera/tree/master/02-Improving-Deep-Neural-Networks)
 
-- [Week 1](https://github.com/andersy005/deep-learning-specialization-coursera/tree/master/02-Improving-Deep-Neural-Networks/week1)
+- [Week 1 - Practical aspects of Deep Learning](https://github.com/andersy005/deep-learning-specialization-coursera/tree/master/02-Improving-Deep-Neural-Networks/week1)
 
   - **Learning Objectives**
 
@@ -63,3 +63,16 @@ This repo contains all my work for this specialization. All the code base, quiz 
   - [Programming Assignment 2 - Regularization](https://github.com/andersy005/deep-learning-specialization-coursera/blob/master/02-Improving-Deep-Neural-Networks/week1/Programming-Assignments/Regularization/Regularization.ipynb)
 
   - [Programming Assignment 3 - Gradient Checking](https://github.com/andersy005/deep-learning-specialization-coursera/blob/master/02-Improving-Deep-Neural-Networks/week1/Programming-Assignments/Gradient%20Checking/Gradient%2BChecking.ipynb)
+  
+- [Week 2 - Optimization algorithms](https://github.com/andersy005/deep-learning-specialization-coursera/tree/master/02-Improving-Deep-Neural-Networks/week2)
+
+  - **Learning Objectives**
+
+    - Remember different optimization methods such as (Stochastic) Gradient Descent, Momentum, RMSProp and Adam
+    - Use random minibatches to accelerate the convergence and improve the optimization
+    - Know the benefits of learning rate decay and apply it to your optimization
+    
+  - [Quiz](https://github.com/andersy005/deep-learning-specialization-coursera/blob/master/02-Improving-Deep-Neural-Networks/week2/quiz.pdf)
+  - [Notes](https://github.com/andersy005/deep-learning-specialization-coursera/blob/master/02-Improving-Deep-Neural-Networks/week2/optimization-algoritihms.ipynb)
+  - [Programming Assignment - Optimization Methods](https://github.com/andersy005/deep-learning-specialization-coursera/blob/master/02-Improving-Deep-Neural-Networks/week2/Programming-Assignments/Optimization%2Bmethods.ipynb)
+
