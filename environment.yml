@@ -1,0 +1,16 @@
+name: dl
+channels:
+  - conda-forge 
+dependencies:
+  - python=3.7
+  - numpy 
+  - pandas
+  - matplotlib
+  - scikit-learn
+  - importnb
+  - scikit-image
+  - pytest==3.6.3
+  - black
+  - pytest-cov
+  - coverage
+  - flake8
