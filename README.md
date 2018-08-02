@@ -76,3 +76,8 @@ This repo contains all my work for this specialization. All the code base, quiz 
   - [Notes](https://github.com/andersy005/deep-learning-specialization-coursera/blob/master/02-Improving-Deep-Neural-Networks/week2/optimization-algoritihms.ipynb)
   - [Programming Assignment - Optimization Methods](https://github.com/andersy005/deep-learning-specialization-coursera/blob/master/02-Improving-Deep-Neural-Networks/week2/Programming-Assignments/Optimization%2Bmethods.ipynb)
 
+## Try notebooks in the cloud
+
+To try out example notebooks interactively in your web browser, just click on the binder link:
+
+[![Binder](https://i.imgur.com/xzKbKkP.png)](https://mybinder.org/v2/gh/andersy005/deep-learning-specialization-coursera/master)
