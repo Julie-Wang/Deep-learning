@@ -1,4 +1,6 @@
 # [Deep Learning Specialization on Coursera](https://www.coursera.org/specializations/deep-learning)
+[![Build Status](https://travis-ci.org/andersy005/deep-learning-specialization-coursera.svg?branch=master)](https://travis-ci.org/andersy005/deep-learning-specialization-coursera)
+
 
 **Master Deep Learning, and Break into AI**
 
