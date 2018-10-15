@@ -1,4 +1,4 @@
-name: dl
+name: test-env
 channels:
   - conda-forge 
 dependencies:
@@ -15,3 +15,10 @@ dependencies:
   - pytest-cov
   - coverage
   - flake8
+  - pathlib 
+  - nbconvert 
+  - nbformat 
+  - jupyter_client 
+  - ipykernel
+  - pip:
+    - version-information 

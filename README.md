@@ -83,3 +83,8 @@ This repo contains all my work for this specialization. All the code base, quiz 
 To try out example notebooks interactively in your web browser, just click on the binder link:
 
 [![Binder](https://i.imgur.com/xzKbKkP.png)](https://mybinder.org/v2/gh/andersy005/deep-learning-specialization-coursera/master)
+
+
+## Contributing
+
+Contributions are welcome! For bug reports or requests please submit an issue.
