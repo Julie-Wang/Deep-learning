@@ -3,14 +3,14 @@ channels:
   - conda-forge 
 dependencies:
   - python=3.6
-  - numpy 
-  - pandas
+  - numpy
   - matplotlib
   - scikit-learn
   - importnb
   - h5py 
+  - tensorflow
   - scikit-image
-  - pytest==3.6.3
+  - pytest
   - black
   - pytest-cov
   - coverage
